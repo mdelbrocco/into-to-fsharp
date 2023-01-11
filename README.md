@@ -1,2 +1,2 @@
-# into-to-fsharp
+# intro-to-fsharp
 Intro to F# session (CodeMash 2023)
